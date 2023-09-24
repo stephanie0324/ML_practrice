@@ -1,0 +1,8 @@
+## Regression Tasks
+### COVID-19_Cases_Prediction
+1. In strong basleine :white_check_mark:
+2. TODOs
+   * Select suitable feature columns. -> leave the states features out
+   * Define your optimization algorithm.
+     * Optimizer choosing -> adam performs the best , with lr = 0.001 (other params are in default)  
+     * L2 regularization  -> weight_decay = 0  
