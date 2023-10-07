@@ -1,5 +1,5 @@
 ## Regression Tasks
-### COVID-19_Cases_Prediction
+### [COVID-19_Cases_Prediction](https://github.com/stephanie0324/ML_practrice/blob/master/Regression/COVID-19_Cases_Prediction.ipynb)
 1. In strong basleine :white_check_mark:
 2. TODOs
    * Select suitable feature columns. -> leave the states features out
