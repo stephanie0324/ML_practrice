@@ -1,9 +1,19 @@
 # 李鴻毅機器學習筆記
 持續學習更新作業與學習內容
 * 目前課程進度：機器學習 2023 spring
-* [課程網址](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
+* [Course Website](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
+* [Other Practice Website](https://statso.io/credit-score-classification-case-study/)
 ### Regression
+|  Name  | Model| Date| Link |
+|  ----  | ----  |  ----  | ----  |
+| COVID-19_Cases_Prediction  | Logistic Regression | 2023/9/24  | []() |
+| 单元格  | 单元格 | 单元格  | 单元格 |
+
 ### Classification
+|  Name  | Model| Date| Link |
+|  ----  | ----  |  ----  | ----  |
+| COVID-19_Cases_Prediction  | Logistic Regression | 2023/9/24  | []() |
+| 单元格  | 单元格 | 单元格  | 单元格 |
 ### CNN
 ### Self-attention
 ### Transformer
