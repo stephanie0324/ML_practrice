@@ -1,4 +1,4 @@
-## Regression Tasks
+## Classification Tasks
 ### Credit Score Classification: Case Study
 model here :point_right: : [link]()
 1. In strong basleine :u7121:
