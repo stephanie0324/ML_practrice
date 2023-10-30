@@ -13,7 +13,7 @@
 ### CNN
 |  Name  | Model| Date| Link |
 |  ----  | ----  |  ----  | ----  |
-| ImageClassification | CNN | 2023110/30  | [:v:]() |
+| ImageClassification | CNN | 2023110/30  | [:v:](https://github.com/stephanie0324/ML_practrice/blob/master/CNN/readme.md#ml2023-hw3-imageclassification) |
 | 单元格  | 单元格 | 单元格  | 单元格 |
 ### Self-attention
 ### Transformer
