@@ -1,6 +1,6 @@
 ## CNN Tasks
 ### ML2023-HW3-ImageClassification
-model here :point_right: : [link]()
+model here :point_right: : [link](https://github.com/stephanie0324/ML_practrice/blob/master/CNN/ML2023-HW3-ImageClassification.ipynb)
 1. In strong basleine :white_check_mark:
 2. TODOs
    * Do some Data Augmentation & Train longer
