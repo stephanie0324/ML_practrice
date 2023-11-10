@@ -17,7 +17,7 @@ model here :point_right: : [link](https://github.com/stephanie0324/ML_practrice/
    * Cross Validation + Ensemble or any other methods you know
       * ensemble VGG + resnet (not yet finished)
 ### ML2023-HW4-SpeakerIdnetification
-model here :point_right: : [link](Classification/ML2023_HW4-SpeakerIdentification.ipynb)
+model here :point_right: : [link]([Classification/ML2023_HW4-SpeakerIdentification.ipynb](https://github.com/stephanie0324/ML_practrice/blob/master/Classification/ML2023_HW4-SpeakerIdentification.ipynb))
 1. In strong basleine :white_check_mark:
 2. TODOs
    * Build a self-attention network to classify speakers with sample code
