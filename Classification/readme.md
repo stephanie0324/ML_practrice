@@ -21,7 +21,7 @@ model here :point_right: : [link](https://github.com/stephanie0324/ML_practrice/
 1. In strong basleine :white_check_mark:
 2. TODOs
    * Build a self-attention network to classify speakers with sample code
-   * Modify the parameters of the transformer modules in the sample code. -> the most effective
+   * Modify the parameters of the transformer modules in the sample code. ->** the most effective**
       * add in encoder 
       * modify the predict layer add more linear
    * Construct Conformer, which is a variety of Transformer.
