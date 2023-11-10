@@ -16,3 +16,16 @@ model here :point_right: : [link](https://github.com/stephanie0324/ML_practrice/
       *　resnet18
    * Cross Validation + Ensemble or any other methods you know
       * ensemble VGG + resnet (not yet finished)
+### ML2023-HW4-SpeakerIdnetification
+model here :point_right: : [link](https://github.com/stephanie0324/ML_practrice/blob/master/Classification/ML2023-HW4-SpeakerIdentification.ipynb)
+1. In strong basleine :white_check_mark:
+2. TODOs
+   * Build a self-attention network to classify speakers with sample code
+   * Modify the parameters of the transformer modules in the sample code. -> the most effective
+      * add in encoder 
+      * modify the predict layer add more linear
+   * Construct Conformer, which is a variety of Transformer.
+      * change the parameter 
+      * implement conformer ![Conformer encoder model architecture](conformer_image.png)
+   * Implement Self-Attention Pooling & Additive Margin Softmax to further boost the performance
+      * self-attention pooling to replace mean pooling

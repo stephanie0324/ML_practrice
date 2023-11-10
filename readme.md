@@ -6,7 +6,7 @@
 ### Regression
 |  Name  | Model| Date| Link |
 |  ----  | ----  |  ----  | ----  |
-| COVID-19_Cases_Prediction  | Logistic Regression | 2023/9/24  | [:v:](https://github.com/stephanie0324/ML_practrice/blob/master/Regression/readme.md#covid-19_cases_prediction) |
+| COVID-19_Cases_Prediction  | Logistic Regression | 2023/9/24  | [:v:](https://github.com/stephanie0324/ML_practrice/blob/master/Regression/ML2023-HW1-COVID-19_Cases_Prediction.ipynb) |
 | 单元格  | 单元格 | 单元格  | 单元格 |
 
 ### Classification
