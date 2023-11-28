@@ -14,7 +14,10 @@
 |  ----  | ----  |  ----  | ----  |
 | ImageClassification | CNN | 2023/10/30  | [:v:](https://github.com/stephanie0324/ML_practrice/blob/master/Classification/ML2023-HW3-ImageClassification.ipynb) |
 | SpeakerIdentification  | Conformer | 2023/11/10  |[:v:](https://github.com/stephanie0324/ML_practrice/blob/master/Classification/ML2023_HW4-SpeakerIdentification.ipynb)|
-### Self-attention
+### Seq2Seq
+|  Name  | Model| Date| Link |
+|  ----  | ----  |  ----  | ----  |
+| Translation | RNN/Transformer | 2023/11/28  | [:v:](https://github.com/stephanie0324/ML_practrice/blob/master/Seq2Seq/ML2023-HW5-Translation.ipynb) |
 ### Transformer
 ### Generative Model
 ### BERT
