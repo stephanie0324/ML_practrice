@@ -18,6 +18,7 @@
 |  Name  | Model| Date| Link |
 |  ----  | ----  |  ----  | ----  |
 | Translation | RNN/Transformer | 2023/11/28  | [:v:](https://github.com/stephanie0324/ML_practrice/blob/master/Seq2Seq/ML2023-HW5-Translation.ipynb) |
+|Question Answering|BERT| 2023/12/04|[:v:](https://github.com/stephanie0324/ML_practrice/blob/master/Seq2Seq/ML2023_HW7_Question_Answering.ipynb)|
 ### Transformer
 ### Generative Model
 ### BERT
