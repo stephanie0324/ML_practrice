@@ -7,7 +7,7 @@ model here :point_right: : [link](https://github.com/stephanie0324/ML_practrice/
    * Switch to transformer model to boost performance -> change to transformer encoder and decoder
    * Apply Back-translation to furthur boost performance (pass)
 ### ML2023-HW7-Question_Answering
-model here :point_right: : [link]()
+model here :point_right: : [link](https://github.com/stephanie0324/ML_practrice/blob/master/Seq2Seq/ML2023_HW7_Question_Answering.ipynb)
 1. In strong basleine :white_check_mark:
 2. TODOs
    * Fine tune a pretrained chinese BERT model
