@@ -6,7 +6,7 @@
 ### Projects
 | Name |Model|<div style="width: 150pt"> Last Update Date| Link |
 |  :-: | :-:  |  :-:  | :-: |
-| HW1-COVID-19_Cases_Prediction  | Logistic Regression | 2023/9/24  | [:door:](ML_practrice/Regression/ML2023-HW1-COVID-19_Cases_Prediction) |
+| HW1-COVID-19_Cases_Prediction  | Logistic Regression | 2023/9/24  | [:door:](ML2023-HW1-COVID-19_Cases_Prediction/) |
 
 ## What is Regression?
 

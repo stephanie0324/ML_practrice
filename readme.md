@@ -28,9 +28,9 @@
     Feel free to fork and expand your project kingdom :)
     <br>
     <br />
-    <a href="https://github.com/stephanie0324/ML_practrice"><strong>Explore the repo »</strong></a>
+    <a ><strong>Explore the repo »</strong></a>
     <br />
-    <a href="https://github.com/stephanie0324/ML_practrice">View Contents</a>
+    <a href="##table-of-contents">View Contents</a>
     ·
     <a href="https://github.com/stephanie0324/ML_practrice/issues">Report Bug</a>
     ·
@@ -39,7 +39,7 @@
 </div>
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary><strong>Table of Contents</strong></summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#new-updates">New Updates</a></li>
@@ -79,9 +79,9 @@
 ## Project Lists
 | Model| Project Count| Link |
 | :----:  |  :----:  | :----:  |
-| Regression | 1 | [:open_file_folder:](ML_practrice/Regression) |
-|CNN|1|  [:open_file_folder:](ML_practrice/CNN)|
-|Transformer|1|  [:open_file_folder:](ML_practrice/Transformer)|
+| Regression | 1 | [:open_file_folder:](Regression/) |
+|CNN|1|  [:open_file_folder:](CNN)|
+|Transformer|1|  [:open_file_folder:](Transformer)|
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
