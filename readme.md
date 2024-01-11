@@ -99,9 +99,10 @@ The projects are all organized by the model used.
    ├──readme.md
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- CONTRIBUTING -->
-## Contributing
 
+<!-- CONTRIBUTING -->
+
+## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. 
 You can do this by adding projects of your own, or you can simply fork and modify it to suit your needs.
 
@@ -134,10 +135,10 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/stephanie0324/ML_practrice/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/stephanie0324/ML_practrice.svg?style=for-the-badge
+[forks-url]:https://github.com/stephanie0324/ML_practrice/forks
+[stars-shield]: https://img.shields.io/github/stars/stephanie0324/ML_practrice.svg?style=for-the-badge
 [stars-url]: https://github.com/stephanie0324/ML_practrice/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/stephanie0324/ML_practrice.svg?style=for-the-badge
 [issues-url]: https://github.com/stephanie0324/ML_practrice/issues
 
