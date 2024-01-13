@@ -18,7 +18,7 @@ This is a classic binary classification problem, so we use logistic regression a
     * `method 1: Optimizer choosing &rarr; adam performs the best , with lr = 0.001 (other params are in default)`
     * method 2: L2 regularization &rarr; weight_decay = 0  
 ## Performance
-  
+
 <p align="center">
-<img src="train_loss.png" alt="drawing" width="300"/><img src="val_loss.png" alt="drawing" width="300"/>
+<img src="train_loss.png" alt="drawing" width="280"/><img src="val_loss.png" alt="drawing" width="280"/>
 </p>

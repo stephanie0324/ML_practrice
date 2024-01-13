@@ -1,57 +1,43 @@
 
+<h1 align="center">Machine Learning Projects</h1>
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+<p align="center">
+    <a href="https://github.com/FlagOpen/FlagEmbedding">
+            <img alt="Build" src="https://img.shields.io/badge/Contribution-Welcome-green">
+    </a>
+    <a href="https://huggingface.co/C-MTEB">
+        <img alt="Build" src="https://img.shields.io/github/stars/stephanie0324/ML_practrice.svg?color=yellow&style=flat&label=STARS&logoColor=white">
+    </a>
+    <a href="https://github.com/stephanie0324/ML_practrice/forks">
+        <img alt="badge" src="https://img.shields.io/github/forks/stephanie0324/ML_practrice.svg?style=flat&label=FORKS">
+    </a>
+</p>
 
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/stephanie0324/ML_practrice">
     <img src="https://i.pinimg.com/originals/0c/64/9a/0c649a17ec1e5f5ca340248b4ef4e4be.gif" alt="Logo" width="300" height="150">
   </a>
-
-  <h3 align="center">Machine Learning Projects</h3>
 
   <p align="center">
     Let's learn and make some projects!
     <br>  
     Feel free to fork and expand your project kingdom :)
     <br>
-    <br />
-    <a ><strong>Explore the repo »</strong></a>
-    <br />
-    <a href="##table-of-contents">View Contents</a>
-    ·
-    <a href="https://github.com/stephanie0324/ML_practrice/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/stephanie0324/ML_practrice/issues">Request Project</a>
+    <h5 align="center">
+    <p>
+        <a href=#about-the-project>About</a> |
+        <a href=#new-updates>News</a> |
+        <a href="#project-lists">Projects</a> |
+        <a href=#usage>Usage</a> |
+        <a href="#roadmap">Roadmap</a> |
+        <a href="#contributing">Contributing</a> |
+        <a href="#license">License</a> 
+    </p>
+  </h5>
   </p>
 </div>
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary><strong>Table of Contents</strong></summary>
-  <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#new-updates">New Updates</a></li>
-    <li><a href="#project-lists">New Updates</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
 
 
 
@@ -127,18 +113,8 @@ Don't forget to give the project a star! Thanks again!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/stephanie0324/" target="blank"><img align='center' src= "https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-square-512.png"alt="steph0324" height="45" width="45" /></a>
-<a href="https://www.facebook.com/profile.php?id=100005029028402&locale=zh_TW" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-seb542ju.png" alt="steph0324" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/stephanie-chiang-42100b165/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="steph0324" height="40" width="40" /></a>
-<a href="https://www.instagram.com/yrs_2499?igsh=MXJ5MHNpc2ZxNHh5NA%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="steph0324" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCpIrOv7O2R7HfpCEMQEOOKQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-512x512-80maysdk.png" alt="steph0324" height="40" width="40" /></a>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/stephanie0324/ML_practrice.svg?style=for-the-badge
-[forks-url]:https://github.com/stephanie0324/ML_practrice/forks
-[stars-shield]: https://img.shields.io/github/stars/stephanie0324/ML_practrice.svg?style=for-the-badge
-[stars-url]: https://github.com/stephanie0324/ML_practrice/stargazers
-[issues-shield]: https://img.shields.io/github/issues/stephanie0324/ML_practrice.svg?style=for-the-badge
-[issues-url]: https://github.com/stephanie0324/ML_practrice/issues
-
+<a href="https://github.com/stephanie0324/" target="blank"><img align='center' src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="steph0324"  /></a> <a href="https://www.facebook.com/profile.php?id=100005029028402&locale=zh_TW" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="steph0324" /></a>
+<a href="https://www.linkedin.com/in/stephanie-chiang-42100b165/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="steph0324"/></a>
+<a href="https://www.instagram.com/yrs_2499?igsh=MXJ5MHNpc2ZxNHh5NA%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="steph0324" /></a>
+<a href="https://www.youtube.com/channel/UCpIrOv7O2R7HfpCEMQEOOKQ" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="steph0324" /></a>
+</p>

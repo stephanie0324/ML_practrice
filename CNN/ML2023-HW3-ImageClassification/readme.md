@@ -22,3 +22,4 @@ Solve image classification with convolutional neural networks(CNN).
     *　method 1: resnet18
  * **Cross Validation + Ensemble or any other methods you know**
     * method 1: ensemble VGG + resnet (not yet finished)
+## Performance
